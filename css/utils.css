@@ -1,0 +1,47 @@
+/* || UTILITY CLASSES */
+.flex {
+    display: flex; 
+    flex-flow: row wrap;   
+    gap: 1rem;
+}
+
+.header__container {
+    padding: 0 5vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.container {
+    padding: 0 5vw;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.item__center {
+    align-items: center;
+}
+
+.space__between {
+    justify-content: space-between;
+}
+
+.header__div {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.section {
+    background-color: #f2f2f2;
+}
+
+.searchbar {
+    width: 38vw;
+    padding: 7px 17px;
+    border: 0.5px solid gray;
+    background-color: #f7f8fd;
+    border-radius: 5px;
+}
+
+
+
